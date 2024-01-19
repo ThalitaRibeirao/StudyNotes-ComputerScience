@@ -1,0 +1,63 @@
+----------------------------------------------
+Escolha uma opção
+  Q. Quit
+  L. Ler um arquivo
+  S. Salvar imagem em arquivo
+  M. Manter entrada anterior
+
+  B. Binarizar a imagem
+  C. Contorno da imagem
+  I. Inverter a imagem
+  F. Filtrar a imagem
+  R. Rotular os componentes conexos
+ ==> l
+
+ ==> Digite o nome do arquivo de entrada: cell.pgm
+ ** Tamanho da imagem: 100 x 87
+ 
+----------------------------------------------
+Escolha uma opção
+  Q. Quit
+  L. Ler um arquivo
+  S. Salvar imagem em arquivo
+  M. Manter entrada anterior
+
+  B. Binarizar a imagem
+  C. Contorno da imagem
+  I. Inverter a imagem
+  F. Filtrar a imagem
+  R. Rotular os componentes conexos
+ ==> c
+
+ ** Contorno foi calculado
+ 
+----------------------------------------------
+Escolha uma opção
+  Q. Quit
+  L. Ler um arquivo
+  S. Salvar imagem em arquivo
+  M. Manter entrada anterior
+
+  B. Binarizar a imagem
+  C. Contorno da imagem
+  I. Inverter a imagem
+  F. Filtrar a imagem
+  R. Rotular os componentes conexos
+ ==> s
+
+ ==> Digite o nome do arquivo de saída: ex2_contorno.pgm
+ ** Imagem gravada no arquivo ex2_contorno.pgm
+ 
+----------------------------------------------
+Escolha uma opção
+  Q. Quit
+  L. Ler um arquivo
+  S. Salvar imagem em arquivo
+  M. Manter entrada anterior
+
+  B. Binarizar a imagem
+  C. Contorno da imagem
+  I. Inverter a imagem
+  F. Filtrar a imagem
+  R. Rotular os componentes conexos
+ ==> q
